@@ -1,0 +1,76 @@
+<h1 id="eleventyed%3A-further-experiments-with-the-jam-stack">Eleventyed: Further experiments with the JAM stack</h1>
+<p>A fork of Ed as a means of exploring Eleventy static site generator for Digital Scholarship.</p>
+<h2 id="converting-a-jekyll-theme-into-an-eleventy-project">Converting a Jekyll theme into an Eleventy project</h2>
+<p>Is it worth it? After some experimentation, answer is yes! While Eleventy is more flexible, the default structure of Jekyll plays nicely with Eleventy.</p>
+<p>Things to keep in mind:</p>
+<ul>
+<li>Eleventy does not have a <code>pages</code> variable (cf., <code>_includes/sidebar.html</code>) – need to create a <code>pages</code> collection the Eleventy way</li>
+<li>Removing references to <code>page</code> parent object at the template level (except <code>page.url</code>), i.e., <code>page.title</code> --&gt; <code>title</code> in most Liquid templating</li>
+<li>Collection items attributes are accessed through the <code>data</code> key (i.e., <code>item.data.title</code>)</li>
+<li>Need to add <code>_layouts</code> to the Eleventy build (cf. <code>.eleventy.js</code>)</li>
+<li>Template content is accessed through <code>templateContent</code> key (cf. <code>assets/js/search.js 21: text.content</code>)</li>
+<li>Eleventy interprets all templates as liquid in addition to anything else – if you need it to do otherwise have to be explicit about it (cf. <code>documentation.md</code> <code>templateEngineOverride</code>)</li>
+<li>Typographic kinks
+<ul>
+<li>[x] Smartquotes (cf. <code>.eleventy.js</code> MarkdownIt parameters)</li>
+<li>[x] Parsing markdown footnotes (cf. <code>markdown-it-footnote</code> plugin)</li>
+<li>[x] Using Kramdown style inline attributes (<code>{.mycoolclass}</code>) – not quite Kramdown, but Pandoc style</li>
+<li>[x] Markdown table of contents</li>
+</ul>
+</li>
+<li>Have to implement any custom filters by hand, for example, the Jekyll/Liquid filter <code>jsonify</code> (cf. <code>.eleventy.js</code> filter addition)</li>
+<li>Have to add Sass to Eleventy build yourself if you’re into that kind of thing</li>
+</ul>
+<p><img src="https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png" alt="Sample Ed screenshot"></p>
+<h2 id="introduction">Introduction</h2>
+<p>Ed is a <a href="https://jekyllrb.com/">Jekyll</a> theme designed for textual editors based on
+<a href="http://go-dh.github.io/mincomp/">minimal computing</a> principles, and focused on legibility,
+durability, ease and flexibility.</p>
+<p>One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
+from one generation to another. The art of textual editing, among other practices, has helped many
+cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
+highest form by a dwindling number of scholars. In a digital environment the problem is compounded
+by the difficulties of the medium. While vast repositories and “e-publications” appear on the
+online scene yearly, very few manifest a textual scholar’s disciplined attention to detail. In
+contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
+on markup, relying on technical teams to deploy and maintain their work. This makes your average
+scholarly digital edition a very costly and therefore limited affair.</p>
+<p>As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
+front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
+theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
+and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
+useful type of editions for editors and readers. An edition produced with Ed consists of static
+pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
+these static pages require less bandwidth. Our hope is that our approach can help beginners and
+veterans deploy beautiful editions with less effort, and that it can help us teach a ‘full stack’
+<a href="https://github.com/susannalles/MinimalEditions/blob/master/README.md">in one academic semester</a>,
+while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
+high-quality editions on <a href="http://github.io">github.io</a> in large quantities based on the
+<a href="http://jonreeve.com/2015/09/introducing-git-lit/">git-lit</a> model by Jonathan Reeve. We’re coming
+for you, Kindle!</p>
+<h2 id="sample-ed-editions.">Sample Ed editions.</h2>
+<ul>
+<li><a href="http://minicomp.github.io/ed/">Our sample site</a> is the first edition built with Ed.</li>
+<li><a href="http://fugitiverses.viraltexts.org/">Fugitive Verses</a>: Popular Reprinted Poetry from Nineteenth Century Newspapers</li>
+<li><a href="http://minilazarillo.github.io/">mini lazarillo</a>: A minimal edition of the <em>Lazarillo de Tormes</em></li>
+<li><a href="https://cu-mkp.github.io/GR8975-edition/">Making and Knowing</a>: The BnF Ms Fr 640 in Translation</li>
+<li><a href="https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/">Daisy Miller: A Comedy in Three Acts</a></li>
+</ul>
+<h2 id="current-features">Current Features</h2>
+<ul>
+<li>Templates for narrative, drama and poetry</li>
+<li>Responsive design for mobile phones, tablets and PCs.</li>
+<li>Relatively easy to learn and teach</li>
+<li>Works well in high- or low- bandwidth scenarios</li>
+<li>Easier for digital archives and libraries to preserve</li>
+<li>Open source, open access</li>
+<li>Unobtrusive footnotes</li>
+<li>Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.</li>
+<li>Automatic table of content generation</li>
+<li>Simple search functionality</li>
+<li>Annotations via <a href="https://hypothes.is/">hypothes.is</a></li>
+<li>Optional: Ability to generate well-formatted bibliographies and linked citations</li>
+</ul>
+<h2 id="installing-and-using-ed">Installing and using Ed</h2>
+<p>To learn how to install and begin using Ed, please visit our
+<a href="http://minicomp.github.io/ed/documentation">documentation page</a>.</p>
