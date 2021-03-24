@@ -8,7 +8,7 @@ media_folder: "_site/assets" # Media files will be stored in the repo under imag
 collections:
   - name: "texts" # Used in routes, e.g., /admin/collections/blog
     label: "Text" # Used in the UI
-    folder: "texts" # The path to the folder where the documents are stored
+    folder: "_texts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -19,6 +19,6 @@ collections:
       - {label: "Rights", name: "rights", widget: "string"}
       - {label: "Source", name: "source", widget: "string"}
       - {label: "Publication Date", name: "publication-date",widget: "number"}
-
+      - {label: 'Text content', name: 'body', widget: 'markdown' }
   
       
