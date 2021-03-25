@@ -1,37 +1,36 @@
 ---
+toc:
+  - Title Page
+  - Preface
+  - Letter from Wendell Phillips, Esq.
+  - Chapter I
+  - Chapter II
+  - Chapter III
+  - Chapter IV
+  - Chapter V
+  - Chapter VI
+  - Chapter VII
+  - Chapter VIII
+  - Chapter IX
+  - Chapter X
+  - Chapter XI
+  - Appendix
+  - A Parody
 layout: narrative
-title: "Narrative of the Life of Frederick Douglass"
+title: Narrative of the Life of Frederick Douglass
 author: Frederick Douglass
 editor: Alex Gil
 rights: Public Domain
 source: Project Guttenberg
-publication-date: 2016
-toc:
-- Title Page
-- Preface
-- Letter from Wendell Phillips, Esq.
-- Chapter I
-- Chapter II
-- Chapter III
-- Chapter IV
-- Chapter V
-- Chapter VI
-- Chapter VII
-- Chapter VIII
-- Chapter IX
-- Chapter X
-- Chapter XI
-- Appendix
-- A Parody
+publication-date: 2021
 ---
-
----
+- - -
 
 ## Editor's note
 
-This version of *Narrative of the Life of Frederick Douglass* was adapted from *The Project Gutenberg EBook of The Narrative of the Life of Frederick Douglass, by Frederick Douglass*. The [Guttenberg file](http://www.gutenberg.org/) does not tell us which witness was used in making their digital edition. The edition below is only a slightly modified version of the Guttenberg text, and therefore should not be taken too seriously as an edition. I use the text mostly to show a few affordances of using Ed for long form narrative. This page, for example, showcases a different sidebar than the rest of our sample site, with a table of content of the novel generated out of metadata in the source file. In addition, reading morsels of the novel on your different devices can give you a sense of the experience of reading prose using Ed, and shows you an example of the optional sidebar with a table of contents. A few other features of this page are described in more detail in the [Documentation]({{ site.baseurl }}/documentation/).
+This version of *Narrative of the Life of Frederick Douglass* was adapted from *The Project Gutenberg EBook of The Narrative of the Life of Frederick Douglass, by Frederick Douglass*. The [Guttenberg file](http://www.gutenberg.org/) does not tell us which witness was used in making their digital edition. The edition below is only a slightly modified version of the Guttenberg text, and therefore should not be taken too seriously as an edition. I use the text mostly to show a few affordances of using Ed for long form narrative. This page, for example, showcases a different sidebar than the rest of our sample site, with a table of content of the novel generated out of metadata in the source file. In addition, reading morsels of the novel on your different devices can give you a sense of the experience of reading prose using Ed, and shows you an example of the optional sidebar with a table of contents. A few other features of this page are described in more detail in the \[Documentation]({{ site.baseurl }}/documentation/).
 
----
+- - -
 
 <a id="title-page"></a>
 
@@ -48,7 +47,7 @@ This version of *Narrative of the Life of Frederick Douglass* was adapted from *
 
 <p class="centered small">ENTERED, ACCORDING TO ACT OF CONGRESS,<br>IN THE YEAR 1845<br>BY FREDERICK DOUGLASS,<br>IN THE CLERK'S OFFICE OF THE DISTRICT COURT<br>OF MASSACHUSETTS.</p>
 
----
+- - -
 
 ## PREFACE
 
@@ -56,7 +55,7 @@ In the month of August, 1841, I attended an anti-slavery convention in Nantucket
 
 Fortunate, most fortunate occurrence!—fortunate for the millions of his manacled brethren, yet panting for deliverance from their awful thraldom!—fortunate for the cause of negro emancipation, and of universal liberty!—fortunate for the land of his birth, which he has already done so much to save and bless!—fortunate for a large circle of friends and acquaintances, whose sympathy and affection he has strongly secured by the many sufferings he has endured, by his virtuous traits of character, by his ever-abiding remembrance of those who are in bonds, as being bound with them!—fortunate for the multitudes, in various parts of our republic, whose minds he has enlightened on the subject of slavery, and who have been melted to tears by his pathos, or roused to virtuous indignation by his stirring eloquence against the enslavers of men!—fortunate for himself, as it at once brought him into the field of public usefulness, "gave the world assurance of a MAN," quickened the slumbering energies of his soul, and consecrated him to the great work of breaking the rod of the oppressor, and letting the oppressed go free!
 
-I shall never forget his first speech at the convention—the extraordinary emotion it excited in my own mind—the powerful impression it created upon a crowded auditory, completely taken by surprise—the applause which followed from the beginning to the end of his felicitous remarks. I think I never hated slavery so intensely as at that moment; certainly, my perception of the enormous outrage which is inflicted by it, on the godlike nature of its victims, was rendered far more clear than ever. There stood one, in physical proportion and stature commanding and exact—in intellect richly endowed—in natural eloquence a prodigy—in soul manifestly "created but a little lower than the angels"—yet a slave, ay, a fugitive slave,—trembling for his safety, hardly daring to believe that on the American soil, a single white person could be found who would befriend him at all hazards, for the love of God and humanity! Capable of high attainments as an intellectual and moral being—needing nothing but a comparatively small amount of cultivation to make him an ornament to society and a blessing to his race—by the law of the land, by the voice of the people, by the terms of the slave code, he was only a piece of property, a beast of burden, a chattel personal, nevertheless!
+I shall never forget his first speech at the convention—the extraordinary emotion it excited in my own mind—the powerful impression it created upon a crowded auditory, completely taken by surprise—the applause which followed from the beginning to the end of his felicitous remarks. I think I never hated slavery so intensely as at that moment; certainly, my perception of the enormous outrage which is inflicted by it, on the godlike nature of its victims, was rendered far more clear than ever. There stood one, in physical proportion and stature commanding and exact—in intellect richly endowed—in natural eloquence a prodigy—in soul manifestly "created but a little lower than the angels"—yet a slave, ay, a fugitive slave,—trembling for his safety, hardly daring to believe that on the American soil, a single white person could be found who would befriend him at all hazards, for the love of God and humanity! Capable of high attainments as an intellectual and moral being—needing nothing but a comparatively small amount of cultivation to make him an ornament to society and a blessing to his race—by the law of the land, by the voice of the people, by the terms of the slave code, he was only a piece of property, a beast of burden, a chattel personal, nevertheless! This is a new sentence.  
 
 A beloved friend from New Bedford prevailed on *Mr. Douglass* to address the convention: He came forward to the platform with a hesitancy and embarrassment, necessarily the attendants of a sensitive mind in such a novel position. After apologizing for his ignorance, and reminding the audience that slavery was a poor school for the human intellect and heart, he proceeded to narrate some of the facts in his own history as a slave, and in the course of his speech gave utterance to many noble thoughts and thrilling reflections. As soon as he had taken his seat, filled with hope and admiration, I rose, and declared that *Patrick Henry*, of revolutionary fame, never made a speech more eloquent in the cause of liberty, than the one we had just listened to from the lips of that hunted fugitive. So I believed at that time—such is my belief now. I reminded the audience of the peril which surrounded this self-emancipated young man at the North,—even in Massachusetts, on the soil of the Pilgrim Fathers, among the descendants of revolutionary sires; and I appealed to them, whether they would ever allow him to be carried back into slavery,—law or no law, constitution or no constitution. The response was unanimous and in thunder-tones—"NO!" "Will you succor and protect him as a brother-man—a resident of the old Bay State?" "YES!" shouted the whole mass, with an energy so startling, that the ruthless tyrants south of Mason and Dixon's line might almost have heard the mighty burst of feeling, and recognized it as the pledge of an invincible determination, on the part of those who gave it, never to betray him that wanders, but to hide the outcast, and firmly to abide the consequences.
 
@@ -81,10 +80,9 @@ Reader! are you with the man-stealers in sympathy and purpose, or on the side of
 WM. LLOYD GARRISON BOSTON,
 *May* 1, 1845.
 
----
+- - -
 
 ## LETTER FROM WENDELL PHILLIPS, ESQ.
-
 
 BOSTON, APRIL 22, 1845.
 
@@ -114,16 +112,13 @@ God speed the day!
 Yours truly,
 WENDELL PHILLIPS
 
-
-
----
+- - -
 
 ## FREDERICK DOUGLASS.
 
-
 Frederick Douglass was born in slavery as Frederick Augustus Washington Bailey near Easton in Talbot County, Maryland. He was not sure of the exact year of his birth, but he knew that it was 1817 or 1818. As a young boy he was sent to Baltimore, to be a house servant, where he learned to read and write, with the assistance of his master's wife. In 1838 he escaped from slavery and went to New York City, where he married Anna Murray, a free colored woman whom he had met in Baltimore. Soon thereafter he changed his name to Frederick Douglass. In 1841 he addressed a convention of the Massachusetts Anti-Slavery Society in Nantucket and so greatly impressed the group that they immediately employed him as an agent. He was such an impressive orator that numerous persons doubted if he had ever been a slave, so he wrote *Narrative Of The Life Of Frederick Douglass*. During the Civil War he assisted in the recruiting of colored men for the 54th and 55th Massachusetts Regiments and consistently argued for the emancipation of slaves. After the war he was active in securing and protecting the rights of the freemen. In his later years, at different times, he was secretary of the Santo Domingo Commission, marshall and recorder of deeds of the District of Columbia, and United States Minister to Haiti. His other autobiographical works are *My Bondage And My Freedom* and *Life And Times Of Frederick Douglass*, published in 1855 and 1881 respectively. He died in 1895.
 
----
+- - -
 
 ## CHAPTER I
 
@@ -147,10 +142,9 @@ This occurrence took place very soon after I went to live with my old master, an
 
 Aunt Hester had not only disobeyed his orders in going out, but had been found in company with Lloyd's Ned; which circumstance, I found, from what he said while whipping her, was the chief offence. Had he been a man of pure morals himself, he might have been thought interested in protecting the innocence of my aunt; but those who knew him will not suspect him of any such virtue. Before he commenced whipping Aunt Hester, he took her into the kitchen, and stripped her from neck to waist, leaving her neck, shoulders, and back, entirely naked. He then told her to cross her hands, calling her at the same time a d——d b—-h. After crossing her hands, he tied them with a strong rope, and led her to a stool under a large hook in the joist, put in for the purpose. He made her get upon the stool, and tied her hands to the hook. She now stood fair for his infernal purpose. Her arms were stretched up at their full length, so that she stood upon the ends of her toes. He then said to her, "Now, you d——d b—-h, I'll learn you how to disobey my orders!" and after rolling up his sleeves, he commenced to lay on the heavy cowskin, and soon the warm, red blood (amid heart-rending shrieks from her, and horrid oaths from him) came dripping to the floor. I was so terrified and horror-stricken at the sight, that I hid myself in a closet, and dared not venture out till long after the bloody transaction was over. I expected it would be my turn next. It was all new to me. I had never seen any thing like it before. I had always lived with my grandmother on the outskirts of the plantation, where she was put to raise the children of the younger women. I had therefore been, until now, out of the way of the bloody scenes that often occurred on the plantation.
 
----
+- - -
 
 ## CHAPTER II
-
 
 My master's family consisted of two sons, Andrew and Richard; one daughter, Lucretia, and her husband, Captain Thomas Auld. They lived in one house, upon the home plantation of Colonel Edward Lloyd. My master was Colonel Lloyd's clerk and superintendent. He was what might be called the overseer of the overseers. I spent two years of childhood on this plantation in my old master's family. It was here that I witnessed the bloody transaction recorded in the first chapter; and as I received my first impressions of slavery on this plantation, I will give some description of it, and of slavery as it there existed. The plantation is about twelve miles north of Easton, in Talbot county, and is situated on the border of Miles River. The principal products raised upon it were tobacco, corn, and wheat. These were raised in great abundance; so that, with the products of this and the other farms belonging to him, he was able to keep in almost constant employment a large sloop, in carrying them to market at Baltimore. This sloop was named Sally Lloyd, in honor of one of the colonel's daughters. My master's son-in-law, Captain Auld, was master of the vessel; she was otherwise manned by the colonel's own slaves. Their names were Peter, Isaac, Rich, and Jake. These were esteemed very highly by the other slaves, and looked upon as the privileged ones of the plantation; for it was no small affair, in the eyes of the slaves, to be allowed to see Baltimore.
 
@@ -168,9 +162,9 @@ The home plantation of Colonel Lloyd wore the appearance of a country village. A
 
 The slaves selected to go to the Great House Farm, for the monthly allowance for themselves and their fellow-slaves, were peculiarly enthusiastic. While on their way, they would make the dense old woods, for miles around, reverberate with their wild songs, revealing at once the highest joy and the deepest sadness. They would compose and sing as they went along, consulting neither time nor tune. The thought that came up, came out—if not in the word, in the sound;—and as frequently in the one as in the other. They would sometimes sing the most pathetic sentiment in the most rapturous tone, and the most rapturous sentiment in the most pathetic tone. Into all of their songs they would manage to weave something of the Great House Farm. Especially would they do this, when leaving home. They would then sing most exultingly the following words:
 
-> - I am going away to the Great House Farm!
-> - O, yea! O, yea!
-{.poetry}
+> * I am going away to the Great House Farm!
+> * O, yea! O, yea!
+>   {.poetry}
 
 This they would sing, as a chorus, to words which to many would seem unmeaning jargon, but which, nevertheless, were full of meaning to themselves. I have sometimes thought that the mere hearing of those songs would do more to impress some minds with the horrible character of slavery, than the reading of whole volumes of philosophy on the subject could do.
 
@@ -178,8 +172,7 @@ I did not, when a slave, understand the deep meaning of those rude and apparentl
 
 I have often been utterly astonished, since I came to the north, to find persons who could speak of the singing, among slaves, as evidence of their contentment and happiness. It is impossible to conceive of a greater mistake. Slaves sing most when they are most unhappy. The songs of the slave represent the sorrows of his heart; and he is relieved by them, only as an aching heart is relieved by its tears. At least, such is my experience. I have often sung to drown my sorrow, but seldom to express my happiness. Crying for joy, and singing for joy, were alike uncommon to me while in the jaws of slavery. The singing of a man cast away upon a desolate island might be as appropriately considered as evidence of contentment and happiness, as the singing of a slave; the songs of the one and of the other are prompted by the same emotion.
 
----
-
+- - -
 
 ## CHAPTER III
 
@@ -195,7 +188,7 @@ The colonel, after ascertaining where the slave belonged, rode on; the man also 
 
 It is partly in consequence of such facts, that slaves, when inquired of as to their condition and the character of their masters, almost universally say they are contented, and that their masters are kind. The slaveholders have been known to send in spies among their slaves, to ascertain their views and feelings in regard to their condition. The frequency of this has had the effect to establish among the slaves the maxim, that a still tongue makes a wise head. They suppress the truth rather than take the consequences of telling it, and in so doing prove themselves a part of the human family. If they have any thing to say of their masters, it is generally in their masters' favor, especially when speaking to an untried man. I have been frequently asked, when a slave, if I had a kind master, and do not remember ever to have given a negative answer; nor did I, in pursuing this course, consider myself as uttering what was absolutely false; for I always measured the kindness of my master by the standard of kindness set up among slaveholders around us. Moreover, slaves are like other people, and imbibe prejudices quite common to others. They think their own better than that of others. Many, under the influence of this prejudice, think their own masters are better than the masters of other slaves; and this, too, in some cases, when the very reverse is true. Indeed, it is not uncommon for slaves even to fall out and quarrel among themselves about the relative goodness of their masters, each contending for the superior goodness of his own over that of the others. At the very same time, they mutually execrate their masters when viewed separately. It was so on our plantation. When Colonel Lloyd's slaves met the slaves of Jacob Jepson, they seldom parted without a quarrel about their masters; Colonel Lloyd's slaves contending that he was the richest, and Mr. Jepson's slaves that he was the smartest, and most of a man. Colonel Lloyd's slaves would boast his ability to buy and sell Jacob Jepson. Mr. Jepson's slaves would boast his ability to whip Colonel Lloyd. These quarrels would almost always end in a fight between the parties, and those that whipped were supposed to have gained the point at issue. They seemed to think that the greatness of their masters was transferable to themselves. It was considered as being bad enough to be a slave; but to be a poor man's slave was deemed a disgrace indeed!
 
----
+- - -
 
 ## CHAPTER IV
 
@@ -219,7 +212,7 @@ Colonel Lloyd's slaves were in the habit of spending a part of their nights and 
 
 Mr. Bondly came over to see Colonel Lloyd the next day, whether to pay him for his property, or to justify himself in what he had done, I know not. At any rate, this whole fiendish transaction was soon hushed up. There was very little said about it at all, and nothing done. It was a common saying, even among little white boys, that it was worth a half-cent to kill a "nigger," and a half-cent to bury one.
 
----
+- - -
 
 ## CHAPTER V
 
@@ -247,7 +240,6 @@ I look upon my departure from Colonel Lloyd's plantation as one of the most inte
 
 I may be deemed superstitious, and even egotistical, in regarding this event as a special interposition of divine Providence in my favor. But I should be false to the earliest sentiments of my soul, if I suppressed the opinion. I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and incur my own abhorrence. From my earliest recollection, I date the entertainment of a deep conviction that slavery would not always be able to hold me within its foul embrace; and in the darkest hours of my career in slavery, this living word of faith and spirit of hope departed not from me, but remained like ministering angels to cheer me through the gloom. This good spirit was from God, and to him I offer thanksgiving and praise.
 
-
 ## CHAPTER VI
 
 My new mistress proved to be all she appeared when I first met her at the door,—a woman of the kindest heart and finest feelings. She had never had a slave under her control previously to myself, and prior to her marriage she had been dependent upon her own industry for a living. She was by trade a weaver; and by constant application to her business, she had been in a good degree preserved from the blighting and dehumanizing effects of slavery. I was utterly astonished at her goodness. I scarcely knew how to behave towards her. She was entirely unlike any other white woman I had ever seen. I could not approach her as I was accustomed to approach other white ladies. My early instruction was all out of place. The crouching servility, usually so acceptable a quality in a slave, did not answer when manifested toward her. Her favor was not gained by it; she seemed to be disturbed by it. She did not deem it impudent or unmannerly for a slave to look her in the face. The meanest slave was put fully at ease in her presence, and none left without feeling better for having seen her. Her face was made of heavenly smiles, and her voice of tranquil music.
@@ -258,7 +250,7 @@ Very soon after I went to live with Mr. and Mrs. Auld, she very kindly commenced
 
 I had resided but a short time in Baltimore before I observed a marked difference, in the treatment of slaves, from that which I had witnessed in the country. A city slave is almost a freeman, compared with a slave on the plantation. He is much better fed and clothed, and enjoys privileges altogether unknown to the slave on the plantation. There is a vestige of decency, a sense of shame, that does much to curb and check those outbreaks of atrocious cruelty so commonly enacted upon the plantation. He is a desperate slaveholder, who will shock the humanity of his non-slaveholding neighbors with the cries of his lacerated slave. Few are willing to incur the odium attaching to the reputation of being a cruel master; and above all things, they would not be known as not giving a slave enough to eat. Every city slaveholder is anxious to have it known of him, that he feeds his slaves well; and it is due to them to say, that most of them do give their slaves enough to eat. There are, however, some painful exceptions to this rule. Directly opposite to us, on Philpot Street, lived Mr. Thomas Hamilton. He owned two slaves. Their names were Henrietta and Mary. Henrietta was about twenty-two years of age, Mary was about fourteen; and of all the mangled and emaciated creatures I ever looked upon, these two were the most so. His heart must be harder than stone, that could look upon these unmoved. The head, neck, and shoulders of Mary were literally cut to pieces. I have frequently felt her head, and found it nearly covered with festering sores, caused by the lash of her cruel mistress. I do not know that her master ever whipped her, but I have been an eye-witness to the cruelty of Mrs. Hamilton. I used to be in Mr. Hamilton's house nearly every day. Mrs. Hamilton used to sit in a large chair in the middle of the room, with a heavy cowskin always by her side, and scarce an hour passed during the day but was marked by the blood of one of these slaves. The girls seldom passed her without her saying, "Move faster, you *black gip!*" at the same time giving them a blow with the cowskin over the head or shoulders, often drawing the blood. She would then say, "Take that, you *black gip!*" continuing, "If you don't move faster, I'll move you!" Added to the cruel lashings to which these slaves were subjected, they were kept nearly half-starved. They seldom knew what it was to eat a full meal. I have seen Mary contending with the pigs for the offal thrown into the street. So much was Mary kicked and cut to pieces, that she was oftener called "*pecked*" than by her name.
 
----
+- - -
 
 ## CHAPTER VII
 
@@ -278,7 +270,7 @@ I often found myself regretting my own existence, and wishing myself dead; and b
 
 The idea as to how I might learn to write was suggested to me by being in Durgin and Bailey's ship-yard, and frequently seeing the ship carpenters, after hewing, and getting a piece of timber ready for use, write on the timber the name of that part of the ship for which it was intended. When a piece of timber was intended for the larboard side, it would be marked thus—"L." When a piece was for the starboard side, it would be marked thus—"S." A piece for the larboard side forward, would be marked thus—"L. F." When a piece was for starboard side forward, it would be marked thus—"S. F." For larboard aft, it would be marked thus—"L. A." For starboard aft, it would be marked thus—"S. A." I soon learned the names of these letters, and for what they were intended when placed upon a piece of timber in the ship-yard. I immediately commenced copying them, and in a short time was able to make the four letters named. After that, when I met with any boy who I knew could write, I would tell him I could write as well as he. The next word would be, "I don't believe you. Let me see you try it." I would then make the letters which I had been so fortunate as to learn, and ask him to beat that. In this way I got a good many lessons in writing, which it is quite possible I should never have gotten in any other way. During this time, my copy-book was the board fence, brick wall, and pavement; my pen and ink was a lump of chalk. With these, I learned mainly how to write. I then commenced and continued copying the Italics in Webster's Spelling Book, until I could make them all without looking on the book. By this time, my little Master Thomas had gone to school, and learned how to write, and had written over a number of copy-books. These had been brought home, and shown to some of our near neighbors, and then laid aside. My mistress used to go to class meeting at the Wilk Street meetinghouse every Monday afternoon, and leave me to take care of the house. When left thus, I used to spend the time in writing in the spaces left in Master Thomas's copy-book, copying what he had written. I continued to do this until I could write a hand very similar to that of Master Thomas. Thus, after a long, tedious effort for years, I finally succeeded in learning how to write.
 
----
+- - -
 
 ## CHAPTER VIII
 
@@ -294,21 +286,19 @@ Thanks to a kind Providence, I fell to the portion of Mrs. Lucretia, and was sen
 
 Very soon after my return to Baltimore, my mistress, Lucretia, died, leaving her husband and one child, Amanda; and in a very short time after her death, Master Andrew died. Now all the property of my old master, slaves included, was in the hands of strangers,—strangers who had had nothing to do with accumulating it. Not a slave was left free. All remained slaves, from the youngest to the oldest. If any one thing in my experience, more than another, served to deepen my conviction of the infernal character of slavery, and to fill me with unutterable loathing of slaveholders, it was their base ingratitude to my poor old grandmother. She had served my old master faithfully from youth to old age. She had been the source of all his wealth; she had peopled his plantation with slaves; she had become a great grandmother in his service. She had rocked him in infancy, attended him in childhood, served him through life, and at his death wiped from his icy brow the cold death-sweat, and closed his eyes forever. She was nevertheless left a slave—a slave for life—a slave in the hands of strangers; and in their hands she saw her children, her grandchildren, and her great-grandchildren, divided, like so many sheep, without being gratified with the small privilege of a single word, as to their or her own destiny. And, to cap the climax of their base ingratitude and fiendish barbarity, my grandmother, who was now very old, having outlived my old master and all his children, having seen the beginning and end of all of them, and her present owners finding she was of but little value, her frame already racked with the pains of old age, and complete helplessness fast stealing over her once active limbs, they took her to the woods, built her a little hut, put up a little mud-chimney, and then made her welcome to the privilege of supporting herself there in perfect loneliness; thus virtually turning her out to die! If my poor old grandmother now lives, she lives to suffer in utter loneliness; she lives to remember and mourn over the loss of children, the loss of grandchildren, and the loss of great-grandchildren. They are, in the language of the slave's poet, Whittier,
 
-
-> - Gone, gone, sold and gone
-> - To the rice swamp dank and lone,
-> - Where the slave-whip ceaseless swings,
-> - Where the noisome insect stings,
-> - Where the fever-demon strews
-> - Poison with the falling dews,
-> - Where the sickly sunbeams glare
-> - Through the hot and misty air:
-> - Gone, gone, sold and gone
-> - To the rice swamp dank and lone,
-> - From Virginia hills and waters—
-> - Woe is me, my stolen daughters!
-{.poetry}
-
+> * Gone, gone, sold and gone
+> * To the rice swamp dank and lone,
+> * Where the slave-whip ceaseless swings,
+> * Where the noisome insect stings,
+> * Where the fever-demon strews
+> * Poison with the falling dews,
+> * Where the sickly sunbeams glare
+> * Through the hot and misty air:
+> * Gone, gone, sold and gone
+> * To the rice swamp dank and lone,
+> * From Virginia hills and waters—
+> * Woe is me, my stolen daughters!
+>   {.poetry}
 
 The hearth is desolate. The children, the unconscious children, who once sang and danced in her presence, are gone. She gropes her way, in the darkness of age, for a drink of water. Instead of the voices of her children, she hears by day the moans of the dove, and by night the screams of the hideous owl. All is gloom. The grave is at the door. And now, when weighed down by the pains and aches of old age, when the head inclines to the feet, when the beginning and ending of human existence meet, and helpless infancy and painful old age combine together—at this time, this most needful time, the time for the exercise of that tenderness and affection which children only can exercise towards a declining parent—my poor old grandmother, the devoted mother of twelve children, is left all alone, in yonder little hut, before a few dim embers. She stands—she sits—she staggers—she falls—she groans—she dies—and there are none of her children or grandchildren present, to wipe from her wrinkled brow the cold sweat of death, or to place beneath the sod her fallen remains. Will not a righteous God visit for these things?
 
@@ -318,7 +308,7 @@ I then had to regret that I did not at least make the attempt to carry out my re
 
 I sailed from Baltimore for St. Michael's in the sloop Amanda, Captain Edward Dodson. On my passage, I paid particular attention to the direction which the steamboats took to go to Philadelphia. I found, instead of going down, on reaching North Point they went up the bay, in a north-easterly direction. I deemed this knowledge of the utmost importance. My determination to run away was again revived. I resolved to wait only so long as the offering of a favorable opportunity. When that came, I was determined to be off.
 
----
+- - -
 
 ## CHAPTER IX
 
@@ -334,7 +324,7 @@ Master would keep this lacerated young woman tied up in this horrid situation fo
 
 My master and myself had quite a number of differences. He found me unsuitable to his purpose. My city life, he said, had had a very pernicious effect upon me. It had almost ruined me for every good purpose, and fitted me for every thing which was bad. One of my greatest faults was that of letting his horse run away, and go down to his father-inlaw's farm, which was about five miles from St. Michael's. I would then have to go after it. My reason for this kind of carelessness, or carefulness, was, that I could always get something to eat when I went there. Master William Hamilton, my master's father-in-law, always gave his slaves enough to eat. I never left there hungry, no matter how great the need of my speedy return. Master Thomas at length said he would stand it no longer. I had lived with him nine months, during which time he had given me a number of severe whippings, all to no good purpose. He resolved to put me out, as he said, to be broken; and, for this purpose, he let me for one year to a man named Edward Covey. Mr. Covey was a poor man, a farm-renter. He rented the place upon which he lived, as also the hands with which he tilled it. Mr. Covey had acquired a very high reputation for breaking young slaves, and this reputation was of immense value to him. It enabled him to get his farm tilled with much less expense to himself than he could have had it done without such a reputation. Some slaveholders thought it not much loss to allow Mr. Covey to have their slaves one year, for the sake of the training to which they were subjected, without any other compensation. He could hire young help with great ease, in consequence of this reputation. Added to the natural good qualities of Mr. Covey, he was a professor of religion—a pious soul—a member and a class-leader in the Methodist church. All of this added weight to his reputation as a "nigger-breaker." I was aware of all the facts, having been made acquainted with them by a young man who had lived there. I nevertheless made the change gladly; for I was sure of getting enough to eat, which is not the smallest consideration to a hungry man.
 
----
+- - -
 
 ## CHAPTER X
 
@@ -380,7 +370,7 @@ Mr. Hopkins was even worse than Mr. Weeden. His chief boast was his ability to m
 
 But to return to Mr. Freeland, and to my experience while in his employment. He, like Mr. Covey, gave us enough to eat; but, unlike Mr. Covey, he also gave us sufficient time to take our meals. He worked us hard, but always between sunrise and sunset. He required a good deal of work to be done, but gave us good tools with which to work. His farm was large, but he employed hands enough to work it, and with ease, compared with many of his neighbors. My treatment, while in his employment, was heavenly, compared with what I experienced at the hands of Mr. Edward Covey.
 
-Mr. Freeland was himself the owner of but two slaves. Their names were Henry Harris and John Harris. The rest of his hands he hired. These consisted of myself, Sandy Jenkins,<sup><a href="#fn1" id="ref1">\*</a></sup> and Handy Caldwell.
+Mr. Freeland was himself the owner of but two slaves. Their names were Henry Harris and John Harris. The rest of his hands he hired. These consisted of myself, Sandy Jenkins,<sup><a href="#fn1" id="ref1">*</a></sup> and Handy Caldwell.
 
 Henry and John were quite intelligent, and in a very little while after I went there, I succeeded in creating in them a strong desire to learn how to read. This desire soon sprang up in the others also. They very soon mustered up some old spelling-books, and nothing would do but that I must keep a Sabbath school. I agreed to do so, and accordingly devoted my Sundays to teaching these my loved fellow-slaves how to read. Neither of them knew his letters when I went there. Some of the slaves of the neighboring farms found what was going on, and also availed themselves of this little opportunity to learn to read. It was understood, among all who came, that there must be as little display about it as possible. It was necessary to keep our religious masters at St. Michael's unacquainted with the fact, that, instead of spending the Sabbath in wrestling, boxing, and drinking whisky, we were trying to learn how to read the will of God; for they had much rather see us engaged in those degrading sports, than to see us behaving like intellectual, moral, and accountable beings. My blood boils as I think of the bloody manner in which Messrs. Wright Fairbanks and Garrison West, both class-leaders, in connection with many others, rushed in upon us with sticks and stones, and broke up our virtuous little Sabbath school, at St. Michael's—all calling themselves Christians! humble followers of the Lord Jesus Christ! But I am again digressing.
 
@@ -390,9 +380,9 @@ The year passed off smoothly. It seemed only about half as long as the year whic
 
 At the close of the year 1834, Mr. Freeland again hired me of my master, for the year 1835. But, by this time, I began to want to live *upon free land* as well as *with Freeland;* and I was no longer content, therefore, to live with him or any other slaveholder. I began, with the commencement of the year, to prepare myself for a final struggle, which should decide my fate one way or the other. My tendency was upward. I was fast approaching manhood, and year after year had passed, and I was still a slave. These thoughts roused me—I must do something. I therefore resolved that 1835 should not pass without witnessing an attempt, on my part, to secure my liberty. But I was not willing to cherish this determination alone. My fellow-slaves were dear to me. I was anxious to have them participate with me in this, my life-giving determination. I therefore, though with great prudence, commenced early to ascertain their views and feelings in regard to their condition, and to imbue their minds with thoughts of freedom. I bent myself to devising ways and means for our escape, and meanwhile strove, on all fitting occasions, to impress them with the gross fraud and inhumanity of slavery. I went first to Henry, next to John, then to the others. I found, in them all, warm hearts and noble spirits. They were ready to hear, and ready to act when a feasible plan should be proposed. This was what I wanted. I talked to them of our want of manhood, if we submitted to our enslavement without at least one noble effort to be free. We met often, and consulted frequently, and told our hopes and fears, recounted the difficulties, real and imagined, which we should be called on to meet. At times we were almost disposed to give up, and try to content ourselves with our wretched lot; at others, we were firm and unbending in our determination to go. Whenever we suggested any plan, there was shrinking—the odds were fearful. Our path was beset with the greatest obstacles; and if we succeeded in gaining the end of it, our right to be free was yet questionable—we were yet liable to be returned to bondage. We could see no spot, this side of the ocean, where we could be free. We knew nothing about Canada. Our knowledge of the north did not extend farther than New York; and to go there, and be forever harassed with the frightful liability of being returned to slavery—with the certainty of being treated tenfold worse than before—the thought was truly a horrible one, and one which it was not easy to overcome. The case sometimes stood thus: At every gate through which we were to pass, we saw a watchman—at every ferry a guard—on every bridge a sentinel—and in every wood a patrol. We were hemmed in upon every side. Here were the difficulties, real or imagined—the good to be sought, and the evil to be shunned. On the one hand, there stood slavery, a stern reality, glaring frightfully upon us,—its robes already crimsoned with the blood of millions, and even now feasting itself greedily upon our own flesh. On the other hand, away back in the dim distance, under the flickering light of the north star, behind some craggy hill or snow-covered mountain, stood a doubtful freedom—half frozen—beckoning us to come and share its hospitality. This in itself was sometimes enough to stagger us; but when we permitted ourselves to survey the road, we were frequently appalled. Upon either side we saw grim death, assuming the most horrid shapes. Now it was starvation, causing us to eat our own flesh;—now we were contending with the waves, and were drowned;—now we were overtaken, and torn to pieces by the fangs of the terrible bloodhound. We were stung by scorpions, chased by wild beasts, bitten by snakes, and finally, after having nearly reached the desired spot,—after swimming rivers, encountering wild beasts, sleeping in the woods, suffering hunger and nakedness,—we were overtaken by our pursuers, and, in our resistance, we were shot dead upon the spot! I say, this picture sometimes appalled us, and made us
 
-> - rather bear those ills we had,  
-> - Than fly to others, that we knew not of.  
-{.poetry}
+> * rather bear those ills we had,  
+> * Than fly to others, that we knew not of.\
+>   {.poetry}
 
 In coming to a fixed determination to run away, we did more than Patrick Henry, when he resolved upon liberty or death. With us it was a doubtful liberty at most, and almost certain death if we failed. For my part, I should prefer death to hopeless bondage.
 
@@ -402,12 +392,10 @@ The plan we finally concluded upon was, to get a large canoe belonging to Mr. Ha
 
 The week before our intended start, I wrote several protections, one for each of us. As well as I can remember, they were in the following words, to wit:
 
-
 > This is to certify that I, the undersigned, have given the bearer, my servant, full liberty to go to Baltimore, and spend the Easter holidays.
 >
 > Written with mine own hand, &c., 1835.<br>
 > WILLIAM HAMILTON,
-
 
 "Near St. Michael's, in Talbot county, Maryland."
 
@@ -443,7 +431,7 @@ Master Hugh, finding he could get no redress, refused to let me go back again to
 
 I was now getting, as I have said, one dollar and fifty cents per day. I contracted for it; I earned it; it was paid to me; it was rightfully my own; yet, upon each returning Saturday night, I was compelled to deliver every cent of that money to Master Hugh. And why? Not because he earned it,—not because he had any hand in earning it,—not because I owed it to him,—nor because he possessed the slightest shadow of a right to it; but solely because he had the power to compel me to give it up. The right of the grim-visaged pirate upon the high seas is exactly the same.
 
----
+- - -
 
 ## CHAPTER XI
 
@@ -461,13 +449,12 @@ I have been frequently asked how I felt when I found myself in a free State. I h
 
 Thank Heaven, I remained but a short time in this distressed situation. I was relieved from it by the humane hand of *Mr. David Ruggles*, whose vigilance, kindness, and perseverance, I shall never forget. I am glad of an opportunity to express, as far as words can, the love and gratitude I bear him. Mr. Ruggles is now afflicted with blindness, and is himself in need of the same kind offices which he was once so forward in the performance of toward others. I had been in New York but a few days, when Mr. Ruggles sought me out, and very kindly took me to his boarding-house at the corner of Church and Lespenard Streets. Mr. Ruggles was then very deeply engaged in the memorable *Darg* case, as well as attending to a number of other fugitive slaves, devising ways and means for their successful escape; and, though watched and hemmed in on almost every side, he seemed to be more than a match for his enemies.
 
-Very soon after I went to Mr. Ruggles, he wished to know of me where I wanted to go; as he deemed it unsafe for me to remain in New York. I told him I was a calker, and should like to go where I could get work. I thought of going to Canada; but he decided against it, and in favor of my going to New Bedford, thinking I should be able to get work there at my trade. At this time, Anna,<sup><a href="#fn2" id="ref2">\*</a></sup> my intended wife, came on; for I wrote to her immediately after my arrival at New York, (notwithstanding my homeless, houseless, and helpless condition,) informing her of my successful flight, and wishing her to come on forthwith. In a few days after her arrival, Mr. Ruggles called in the Rev. J. W. C. Pennington, who, in the presence of Mr. Ruggles, Mrs. Michaels, and two or three others, performed the marriage ceremony, and gave us a certificate, of which the following is an exact copy:
+Very soon after I went to Mr. Ruggles, he wished to know of me where I wanted to go; as he deemed it unsafe for me to remain in New York. I told him I was a calker, and should like to go where I could get work. I thought of going to Canada; but he decided against it, and in favor of my going to New Bedford, thinking I should be able to get work there at my trade. At this time, Anna,<sup><a href="#fn2" id="ref2">*</a></sup> my intended wife, came on; for I wrote to her immediately after my arrival at New York, (notwithstanding my homeless, houseless, and helpless condition,) informing her of my successful flight, and wishing her to come on forthwith. In a few days after her arrival, Mr. Ruggles called in the Rev. J. W. C. Pennington, who, in the presence of Mr. Ruggles, Mrs. Michaels, and two or three others, performed the marriage ceremony, and gave us a certificate, of which the following is an exact copy:
 
-> This may certify, that I joined together in holy matrimony Frederick Johnson<sup><a href="#fn3" id="ref3">\*</a></sup> and Anna Murray, as man and wife, in the presence of Mr. David Ruggles and Mrs. Michaels.  
+> This may certify, that I joined together in holy matrimony Frederick Johnson<sup><a href="#fn3" id="ref3">*</a></sup> and Anna Murray, as man and wife, in the presence of Mr. David Ruggles and Mrs. Michaels.  
 >
-> JAMES W. C. PENNINGTON  
+> JAMES W. C. PENNINGTON\
 > New York, Sept. 15, 1838
-
 
 Upon receiving this certificate, and a five-dollar bill from Mr. Ruggles, I shouldered one part of our baggage, and Anna took up the other, and we set out forthwith to take passage on board of the steamboat John W. Richmond for Newport, on our way to New Bedford. Mr. Ruggles gave me a letter to a Mr. Shaw in Newport, and told me, in case my money did not serve me to New Bedford, to stop in Newport and obtain further assistance; but upon our arrival at Newport, we were so anxious to get to a place of safety, that, notwithstanding we lacked the necessary money to pay our fare, we decided to take seats in the stage, and promise to pay when we got to New Bedford. We were encouraged to do this by two excellent gentlemen, residents of New Bedford, whose names I afterward ascertained to be Joseph Ricketson and William C. Taber. They seemed at once to understand our circumstances, and gave us such assurance of their friendliness as put us fully at ease in their presence.
 
@@ -481,7 +468,7 @@ In the afternoon of the day when I reached New Bedford, I visited the wharves, t
 
 Every thing looked clean, new, and beautiful. I saw few or no dilapidated houses, with poverty-stricken inmates; no half-naked children and barefooted women, such as I had been accustomed to see in Hillsborough, Easton, St. Michael's, and Baltimore. The people looked more able, stronger, healthier, and happier, than those of Maryland. I was for once made glad by a view of extreme wealth, without being saddened by seeing extreme poverty. But the most astonishing as well as the most interesting thing to me was the condition of the colored people, a great many of whom, like myself, had escaped thither as a refuge from the hunters of men. I found many, who had not been seven years out of their chains, living in finer houses, and evidently enjoying more of the comforts of life, than the average of slaveholders in Maryland. I will venture to assert, that my friend Mr. Nathan Johnson (of whom I can say with a grateful heart, "I was hungry, and he gave me meat; I was thirsty, and he gave me drink; I was a stranger, and he took me in") lived in a neater house; dined at a better table; took, paid for, and read, more newspapers; better understood the moral, religious, and political character of the nation,—than nine tenths of the slaveholders in Talbot county Maryland. Yet Mr. Johnson was a working man. His hands were hardened by toil, and not his alone, but those also of Mrs. Johnson. I found the colored people much more spirited than I had supposed they would be. I found among them a determination to protect each other from the blood-thirsty kidnapper, at all hazards. Soon after my arrival, I was told of a circumstance which illustrated their spirit. A colored man and a fugitive slave were on unfriendly terms. The former was heard to threaten the latter with informing his master of his whereabouts. Straightway a meeting was called among the colored people, under the stereotyped notice, "Business of importance!" The betrayer was invited to attend. The people came at the appointed hour, and organized the meeting by appointing a very religious old gentleman as president, who, I believe, made a prayer, after which he addressed the meeting as follows: "*Friends, we have got him here, and I would recommend that you young men just take him outside the door, and kill him!*" With this, a number of them bolted at him; but they were intercepted by some more timid than themselves, and the betrayer escaped their vengeance, and has not been seen in New Bedford since. I believe there have been no more such threats, and should there be hereafter, I doubt not that death would be the consequence.
 
-I found employment, the third day after my arrival, in stowing a sloop with a load of oil. It was new, dirty, and hard work for me; but I went at it with a glad heart and a willing hand. I was now my own master. It was a happy moment, the rapture of which can be understood only by those who have been slaves. It was the first work, the reward of which was to be entirely my own. There was no Master Hugh standing ready, the moment I earned the money, to rob me of it. I worked that day with a pleasure I had never before experienced. I was at work for myself and newly-married wife. It was to me the starting-point of a new existence. When I got through with that job, I went in pursuit of a job of calking; but such was the strength of prejudice against color, among the white calkers, that they refused to work with me, and of course I could get no employment.<sup><a href="#fn4" id="ref4">\*</a></sup>
+I found employment, the third day after my arrival, in stowing a sloop with a load of oil. It was new, dirty, and hard work for me; but I went at it with a glad heart and a willing hand. I was now my own master. It was a happy moment, the rapture of which can be understood only by those who have been slaves. It was the first work, the reward of which was to be entirely my own. There was no Master Hugh standing ready, the moment I earned the money, to rob me of it. I worked that day with a pleasure I had never before experienced. I was at work for myself and newly-married wife. It was to me the starting-point of a new existence. When I got through with that job, I went in pursuit of a job of calking; but such was the strength of prejudice against color, among the white calkers, that they refused to work with me, and of course I could get no employment.<sup><a href="#fn4" id="ref4">*</a></sup>
 
 Finding my trade of no immediate benefit, I threw off my calking habiliments, and prepared myself to do any kind of work I could get to do. Mr. Johnson kindly let me have his wood-horse and saw, and I very soon found myself a plenty of work. There was no work too hard—none too dirty. I was ready to saw wood, shovel coal, carry wood, sweep the chimney, or roll oil casks,—all of which I did for nearly three years in New Bedford, before I became known to the anti-slavery world.
 
@@ -489,33 +476,32 @@ In about four months after I went to New Bedford, there came a young man to me, 
 
 I had not long been a reader of the "Liberator," before I got a pretty correct idea of the principles, measures and spirit of the anti-slavery reform. I took right hold of the cause. I could do but little; but what I could, I did with a joyful heart, and never felt happier than when in an anti-slavery meeting. I seldom had much to say at the meetings, because what I wanted to say was said so much better by others. But, while attending an anti-slavery convention at Nantucket, on the 11th of August, 1841, I felt strongly moved to speak, and was at the same time much urged to do so by Mr. William C. Coffin, a gentleman who had heard me speak in the colored people's meeting at New Bedford. It was a severe cross, and I took it up reluctantly. The truth was, I felt myself a slave, and the idea of speaking to white people weighed me down. I spoke but a few moments, when I felt a degree of freedom, and said what I desired with considerable ease. From that time until now, I have been engaged in pleading the cause of my brethren—with what success, and with what devotion, I leave those acquainted with my labors to decide.
 
----
+- - -
 
 ## APPENDIX
 
 I find, since reading over the foregoing Narrative, that I have, in several instances, spoken in such a tone and manner, respecting religion, as may possibly lead those unacquainted with my religious views to suppose me an opponent of all religion. To remove the liability of such misapprehension, I deem it proper to append the following brief explanation. What I have said respecting and against religion, I mean strictly to apply to the *slaveholding religion* of this land, and with no possible reference to Christianity proper; for, between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference—so wide, that to receive the one as good, pure, and holy, is of necessity to reject the other as bad, corrupt, and wicked. To be the friend of the one, is of necessity to be the enemy of the other. I love the pure, peaceable, and impartial Christianity of Christ: I therefore hate the corrupt, slaveholding, women-whipping, cradle-plundering, partial and hypocritical Christianity of this land. Indeed, I can see no reason, but the most deceitful one, for calling the religion of this land Christianity. I look upon it as the climax of all misnomers, the boldest of all frauds, and the grossest of all libels. Never was there a clearer case of "stealing the livery of the court of heaven to serve the devil in." I am filled with unutterable loathing when I contemplate the religious pomp and show, together with the horrible inconsistencies, which every where surround me. We have men-stealers for ministers, women-whippers for missionaries, and cradle-plunderers for church members. The man who wields the blood-clotted cowskin during the week fills the pulpit on Sunday, and claims to be a minister of the meek and lowly Jesus. The man who robs me of my earnings at the end of each week meets me as a class-leader on Sunday morning, to show me the way of life, and the path of salvation. He who sells my sister, for purposes of prostitution, stands forth as the pious advocate of purity. He who proclaims it a religious duty to read the Bible denies me the right of learning to read the name of the God who made me. He who is the religious advocate of marriage robs whole millions of its sacred influence, and leaves them to the ravages of wholesale pollution. The warm defender of the sacredness of the family relation is the same that scatters whole families,—sundering husbands and wives, parents and children, sisters and brothers,—leaving the hut vacant, and the hearth desolate. We see the thief preaching against theft, and the adulterer against adultery. We have men sold to build churches, women sold to support the gospel, and babes sold to purchase Bibles for the *Poor Heathen! All For The Glory Of God And The Good Of Souls!* The slave auctioneer's bell and the church-going bell chime in with each other, and the bitter cries of the heart-broken slave are drowned in the religious shouts of his pious master. Revivals of religion and revivals in the slave-trade go hand in hand together. The slave prison and the church stand near each other. The clanking of fetters and the rattling of chains in the prison, and the pious psalm and solemn prayer in the church, may be heard at the same time. The dealers in the bodies and souls of men erect their stand in the presence of the pulpit, and they mutually help each other. The dealer gives his blood-stained gold to support the pulpit, and the pulpit, in return, covers his infernal business with the garb of Christianity. Here we have religion and robbery the allies of each other—devils dressed in angels' robes, and hell presenting the semblance of paradise.
 
-
-> - Just God! and these are they,
-> - Who minister at thine altar, God of right!
-> - Men who their hands, with prayer and blessing, lay
-> - On Israel's ark of light.
-{.poetry}
-> - What! preach, and kidnap men?
-> - Give thanks, and rob thy own afflicted poor?
-> - Talk of thy glorious liberty, and then
-> - Bolt hard the captive's door?
-{.poetry}
-> - What! servants of thy own
-> - Merciful Son, who came to seek and save
-> - The homeless and the outcast, fettering down
-> - The tasked and plundered slave!
-{.poetry}
-> - Pilate and Herod friends!
-> - Chief priests and rulers, as of old, combine!
-> - Just God and holy! is that church which lends
-> - Strength to the spoiler thine?"
-{.poetry}
+> * Just God! and these are they,
+> * Who minister at thine altar, God of right!
+> * Men who their hands, with prayer and blessing, lay
+> * On Israel's ark of light.
+>   {.poetry}
+> * What! preach, and kidnap men?
+> * Give thanks, and rob thy own afflicted poor?
+> * Talk of thy glorious liberty, and then
+> * Bolt hard the captive's door?
+>   {.poetry}
+> * What! servants of thy own
+> * Merciful Son, who came to seek and save
+> * The homeless and the outcast, fettering down
+> * The tasked and plundered slave!
+>   {.poetry}
+> * Pilate and Herod friends!
+> * Chief priests and rulers, as of old, combine!
+> * Just God and holy! is that church which lends
+> * Strength to the spoiler thine?"
+>   {.poetry}
 
 The Christianity of America is a Christianity, of whose votaries it may be as truly said, as it was of the ancient scribes and Pharisees, "They bind heavy burdens, and grievous to be borne, and lay them on men's shoulders, but they themselves will not move them with one of their fingers. All their works they do for to be seen of men.—They love the uppermost rooms at feasts, and the chief seats in the synagogues, . . . . . . and to be called of men, Rabbi, Rabbi.—But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men; for ye neither go in yourselves, neither suffer ye them that are entering to go in. Ye devour widows' houses, and for a pretence make long prayers; therefore ye shall receive the greater damnation. Ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.—Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint, and anise, and cumin, and have omitted the weightier matters of the law, judgment, mercy, and faith; these ought ye to have done, and not to leave the other undone. Ye blind guides! which strain at a gnat, and swallow a camel. Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter; but within, they are full of extortion and excess.—Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness. Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
 
@@ -525,89 +511,88 @@ Such is, very briefly, my view of the religion of this land; and to avoid any mi
 
 I conclude these remarks by copying the following portrait of the religion of the south, (which is, by communion and fellowship, the religion of the north,) which I soberly affirm is "true to the life," and without caricature or the slightest exaggeration. It is said to have been drawn, several years before the present anti-slavery agitation began, by a northern Methodist preacher, who, while residing at the south, had an opportunity to see slaveholding morals, manners, and piety, with his own eyes. "Shall I not visit for these things? saith the Lord. Shall not my soul be avenged on such a nation as this?"
 
----
+- - -
 
 ## A PARODY
 
-> - Come, saints and sinners, hear me tell
-> - How pious priests whip Jack and Nell,
-> - And women buy and children sell,
-> - And preach all sinners down to hell,
-> - And sing of heavenly union.
-> ^
-> - They'll bleat and baa, dona like goats,
-> - Gorge down black sheep, and strain at motes,
-> - Array their backs in fine black coats,
-> - Then seize their negroes by their throats,
-> - And choke, for heavenly union.
-> ^
-> - They'll church you if you sip a dram,
-> - And damn you if you steal a lamb;
-> - Yet rob old Tony, Doll, and Sam,
-> - Of human rights, and bread and ham;
-> - Kidnapper's heavenly union.
-> ^
-> - They'll loudly talk of Christ's reward,
-> - And bind his image with a cord,
-> - And scold, and swing the lash abhorred,
-> - And sell their brother in the Lord
-> - To handcuffed heavenly union.
-> ^
-> - They'll read and sing a sacred song,
-> - And make a prayer both loud and long,
-> - And teach the right and do the wrong,
-> - Hailing the brother, sister throng,
-> - With words of heavenly union.
-> ^
-> - We wonder how such saints can sing,
-> - Or praise the Lord upon the wing,
-> - Who roar, and scold, and whip, and sting,
-> - And to their slaves and mammon cling,
-> - In guilty conscience union.
-> ^
-> - They'll raise tobacco, corn, and rye,
-> - And drive, and thieve, and cheat, and lie,
-> - And lay up treasures in the sky,
-> - By making switch and cowskin fly,
-> - In hope of heavenly union.
-> ^
-> - They'll crack old Tony on the skull,
-> - And preach and roar like Bashan bull,
-> - Or braying ass, of mischief full,
-> - Then seize old Jacob by the wool,
-> - And pull for heavenly union.
-> ^
-> - A roaring, ranting, sleek man-thief,
-> - Who lived on mutton, veal, and beef,
-> - Yet never would afford relief
-> - To needy, sable sons of grief,
-> - Was big with heavenly union.
-> ^
-> - 'Love not the world,' the preacher said,
-> - And winked his eye, and shook his head;
-> - He seized on Tom, and Dick, and Ned,
-> - Cut short their meat, and clothes, and bread,
-> - Yet still loved heavenly union.
-> ^
-> - Another preacher whining spoke
-> - Of One whose heart for sinners broke:
-> - He tied old Nanny to an oak,
-> - And drew the blood at every stroke,
-> - And prayed for heavenly union.
-> ^
-> - Two others oped their iron jaws,
-> - And waved their children-stealing paws;
-> - There sat their children in gewgaws;
-> - By stinting negroes' backs and maws,
-> - They kept up heavenly union.
-> ^
-> - All good from Jack another takes,
-> - And entertains their flirts and rakes,
-> - Who dress as sleek as glossy snakes,
-> - And cram their mouths with sweetened cakes;
-> - And this goes down for union.
-{.poetry}
-
+> * Come, saints and sinners, hear me tell
+> * How pious priests whip Jack and Nell,
+> * And women buy and children sell,
+> * And preach all sinners down to hell,
+> * And sing of heavenly union.
+>   ^
+> * They'll bleat and baa, dona like goats,
+> * Gorge down black sheep, and strain at motes,
+> * Array their backs in fine black coats,
+> * Then seize their negroes by their throats,
+> * And choke, for heavenly union.
+>   ^
+> * They'll church you if you sip a dram,
+> * And damn you if you steal a lamb;
+> * Yet rob old Tony, Doll, and Sam,
+> * Of human rights, and bread and ham;
+> * Kidnapper's heavenly union.
+>   ^
+> * They'll loudly talk of Christ's reward,
+> * And bind his image with a cord,
+> * And scold, and swing the lash abhorred,
+> * And sell their brother in the Lord
+> * To handcuffed heavenly union.
+>   ^
+> * They'll read and sing a sacred song,
+> * And make a prayer both loud and long,
+> * And teach the right and do the wrong,
+> * Hailing the brother, sister throng,
+> * With words of heavenly union.
+>   ^
+> * We wonder how such saints can sing,
+> * Or praise the Lord upon the wing,
+> * Who roar, and scold, and whip, and sting,
+> * And to their slaves and mammon cling,
+> * In guilty conscience union.
+>   ^
+> * They'll raise tobacco, corn, and rye,
+> * And drive, and thieve, and cheat, and lie,
+> * And lay up treasures in the sky,
+> * By making switch and cowskin fly,
+> * In hope of heavenly union.
+>   ^
+> * They'll crack old Tony on the skull,
+> * And preach and roar like Bashan bull,
+> * Or braying ass, of mischief full,
+> * Then seize old Jacob by the wool,
+> * And pull for heavenly union.
+>   ^
+> * A roaring, ranting, sleek man-thief,
+> * Who lived on mutton, veal, and beef,
+> * Yet never would afford relief
+> * To needy, sable sons of grief,
+> * Was big with heavenly union.
+>   ^
+> * 'Love not the world,' the preacher said,
+> * And winked his eye, and shook his head;
+> * He seized on Tom, and Dick, and Ned,
+> * Cut short their meat, and clothes, and bread,
+> * Yet still loved heavenly union.
+>   ^
+> * Another preacher whining spoke
+> * Of One whose heart for sinners broke:
+> * He tied old Nanny to an oak,
+> * And drew the blood at every stroke,
+> * And prayed for heavenly union.
+>   ^
+> * Two others oped their iron jaws,
+> * And waved their children-stealing paws;
+> * There sat their children in gewgaws;
+> * By stinting negroes' backs and maws,
+> * They kept up heavenly union.
+>   ^
+> * All good from Jack another takes,
+> * And entertains their flirts and rakes,
+> * Who dress as sleek as glossy snakes,
+> * And cram their mouths with sweetened cakes;
+> * And this goes down for union.
+>   {.poetry}
 
 Sincerely and earnestly hoping that this little book may do something toward throwing light on the American slave system, and hastening the glad day of deliverance to the millions of my brethren in bonds—faithfully relying upon the power of truth, love, and justice, for success in my humble efforts—and solemnly pledging my self anew to the sacred cause,—I subscribe myself,
 
@@ -616,10 +601,9 @@ LYNN, *Mass., April* 28, 1845.
 
 THE END
 
----
+- - -
 
-[Footnotes by Frederick Douglass]
-
+\[Footnotes by Frederick Douglass]
 
 <!-- Make sure to use &#x21a9;&#xfe0e; to generate ↩︎ manually -->
 
