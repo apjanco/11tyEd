@@ -15,10 +15,10 @@ collections:
       - {label: "Layout", name: "layout", widget: "select", options: ["poem","narrative","drama"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Editor", name: "editor", widget: "string"}
-      - {label: "Rights", name: "rights", widget: "string"}
-      - {label: "Source", name: "source", widget: "string"}
-      - {label: "Publication Date", name: "publication-date",widget: "number"}
+      - {label: "Editor", name: "editor", widget: "string", required: false}
+      - {label: "Rights", name: "rights", widget: "string", required: false}
+      - {label: "Source", name: "source", widget: "string", required: false}
+      - {label: "Publication Date", name: "publication-date",widget: "number", required: false}
       - {label: 'Text content', name: 'body', widget: 'markdown' }
 
       
