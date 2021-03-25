@@ -22,7 +22,7 @@ author: Frederick Douglass
 editor: Alex Gil
 rights: Public Domain
 source: Project Guttenberg
-publication-date: 2016
+publication-date: 2021
 ---
 - - -
 
