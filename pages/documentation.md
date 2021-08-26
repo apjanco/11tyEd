@@ -49,7 +49,7 @@ http://timeline.knightlab.com/#make
 - You must include event start date information (of some kind), but the end date information is entirely optional.
 - You can incorporate a range of media on your timeline. For today, let’s practice using images and YouTube videos. 
 6. To practice, skim the Wikipedia page for the Russian Civil War to identify three events that have clearly designated months, days, years. Place that             information into your timeline. The headline should be brief and clear. The “Text” section is where you should incorporate your analysis or explanations
-7. Now, let’s turn to the media section. You want to make sure you do not break copyright, so we’ll be looking for images in the public domain or images that are licensed for public use. Please refer to our Guide to Copyright & Images for further details: https://docs.google.com/document/d/1grMgsriZlLXBmDRP_XEMYWHunPAcPVsO1tiZ5lM69bM/edit?usp=sharing.
+7. Now, let’s turn to the media section. You want to make sure you do not break copyright, so we’ll be looking for images in the public domain or images that are licensed for public use. Please refer to our [Guide to Copyright & Images](https://docs.google.com/document/d/1grMgsriZlLXBmDRP_XEMYWHunPAcPVsO1tiZ5lM69bM/edit?usp=sharing) for further details.
 - On Google Images, search for “Russian Civil War.”
 - Click on “Tools,” open the “Usage Rights” tab, and select “Creative Commons licenses.” These are all images that you should be able to use on your                  timelines.
 - Once you find an image you like, click on it. In this case, we’ll be using an image from Wikimedia Commons.
