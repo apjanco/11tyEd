@@ -46,6 +46,13 @@ index.addDoc({
   content: undefined,
   id: 4
 });
+index.addDoc({
+  title: "A timeline that shows it all beginning to ending",
+  author: "Group 4",
+  layout: "timeline",
+  content: undefined,
+  id: 5
+});
 console.log( jQuery.type(index) );
 
 // Builds reference data (maybe not necessary for us, to check)
@@ -78,6 +85,12 @@ var store = [{
   "author": "Group 4",
   "layout": "narrative",
   "link": "/texts/representations-of-race-and-the-other-in-soviet-science-fiction-and-science.html",
+}
+,{
+  "title": "A timeline that shows it all beginning to ending",
+  "author": "Group 4",
+  "layout": "timeline",
+  "link": "/texts/a-timeline-that-shows-it-all-beginning-to-ending.html",
 }
 ]
 
