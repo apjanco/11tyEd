@@ -27,9 +27,11 @@ When you click on a text you'll get a form that lets you edit the metadata (such
 
 ##### Metadata
 Most of the metadata fields are optional and don't have to be completed.  However, your page must have a title and author. 
-- layout ~ Ed has layouts for various genres of text. In most cases you'll want `narrative`. ([more](https://minicomp.github.io/ed/documentation/#genres)).  You can embed a timeline or storymap into any layout.  If you want to fetch data directly from a Google Sheet and render a timeline in your page, you can use the `timeline` layout.  Be sure to add the Google Sheet id in the Timeline ID field.
-- Timeline id  ~ used by the timeline layout.  It expects the sheet id.  For example if your browser shows `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`, the id is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`
+
 - Text content ~ This interface allows you to write or paste text into the page.  With "richtext" selected, you can add plain text or HTML. With "markdown" you can write using a short-hand for HTML called "markdown." For more on markdown see [here](https://www.markdownguide.org/cheat-sheet/).  
+- layout ~ Ed has layouts for various genres of text. In most cases you'll want `narrative` ([more](https://minicomp.github.io/ed/documentation/#genres)).  You can embed a timeline or storymap into any layout.  If you want to fetch data directly from a Google Sheet and render a timeline in your page, you can use the `timeline` layout.  Be sure to add the Google Sheet id in the Timeline ID field.
+- Timeline id  ~ used by the timeline layout.  It expects the sheet id.  For example if your browser shows `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`, the id is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`
+
 
 ---
 
@@ -98,7 +100,51 @@ You can then use those embed codes to feature your clips on your page here (or e
 
 ---
 
+## Serving sound and music to the web
+
+Soundcite works with sound files on the web.  It needs an address for a publicly available file that your browser can request.  There are many ways of serving files to the web.  The best way to see if your file's address will work is just to put it in your browser.  If it download's a file, that's all you need.  The exact same thing happens when Soundcite fetches and plays the file as part of your website. 
+
+#### GitHub
+
+GitHub is a cloud service owned by Microsoft that is an essential tool for web developers and programmers.  It's wonderful for sharing code and tracking changes in documents.  We're going to use it to publish files to the web.  
+
+1. You'll need to create a free account with GitHub: https://github.com/join  
+2. Follow these directions to create a public repository: https://docs.github.com/en/get-started/quickstart/create-a-repo
+3. Go to your repository's page 
+4. You'll find an `Add file` button. Click on it and select `Upload files`
+5. Select your sound files and press the green `Commit changes` button. You can store up to 1GB in a single repository and each file must be less than 100 MB. Also remember that Soundcite prefers MP3, M4A, WAV or Ogg files.  
+6. On the repository's page you should now see your uploaded files.  The last step is to get a file's URL.  This is the link to the web that I mentioned earlier. Click on the file's name.  On the right side of the page you'll see a `Download` button.  If you click on it, it'll download the file to your computer.  However, if you right click on the button and select `Copy link address` (Chrome) or `Copy Link` (Firefox), it'll copy the address that you need for Soundcite.  It'll be something like `https://github.com/New-Languages-for-NLP/files/raw/main/file_example_MP3_1MG.mp3`. 
+
+
+#### Box 
+
+You can create a direct download link in Box that should work with Soundcite.  See here: https://support.box.com/hc/en-us/articles/360043697554-Configuring-Individual-Shared-Link-Settings
+
+#### Dropbox 
+
+Instructions for making a download link with dropbox: https://help.dropbox.com/files-folders/share/force-download
+
+#### Google Drive 
+
+Here's a post on direct download from Drive.  It's a little funky, but it works.  
+1. Upload your sound file to Drive.
+2. Share your file, make sure it's available to anyone with the link, and get the file id from the link.  For example `Get link` will show `https://drive.google.com/file/d/1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ/view?usp=sharing`.  
+
+- The id is `1TRUFvBz-fHHaGSGm-jF3J9W-aLEypRy1nfv58XBeZPE`
+
+3. Combine this `https://drive.google.com/uc?export=download&id=` with your file's ID
+4. So the public web address of the file is then: 
+`https://drive.google.com/uc?export=download&id=1TRUFvBz-fHHaGSGm-jF3J9W-aLEypRy1nfv58XBeZPE`
+
+
+
+
+
+---
 ## Minimal Computing and Ed 
 
+[Minicomp](https://minicomp.github.io/wiki/) is a collaborative effort in embedding minimal computing principles (e.g. Minimal Maintenance, Minimal Dependencies, and Minimal Connectivity) in digital humanities methods.
+
+[Design for Diversity: The Case of Ed / Alex Gil](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/)
 
 ---

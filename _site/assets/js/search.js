@@ -47,11 +47,32 @@ index.addDoc({
   id: 4
 });
 index.addDoc({
-  title: "A timeline that shows it all beginning to ending",
-  author: "Group 4",
-  layout: "timeline",
+  title: "Organized crime and politics in Central Asia",
+  author: "Group 8",
+  layout: "narrative",
   content: undefined,
   id: 5
+});
+index.addDoc({
+  title: "Soviet and Russian foreign policy",
+  author: "Group 6",
+  layout: "narrative",
+  content: undefined,
+  id: 6
+});
+index.addDoc({
+  title: "Underground music in Soviet Union, Eastern Europe, and Russia",
+  author: "Group 8",
+  layout: "narrative",
+  content: undefined,
+  id: 7
+});
+index.addDoc({
+  title: "This one has a timeline ",
+  author: "Andy",
+  layout: "timeline",
+  content: undefined,
+  id: 8
 });
 console.log( jQuery.type(index) );
 
@@ -87,10 +108,28 @@ var store = [{
   "link": "/texts/representations-of-race-and-the-other-in-soviet-science-fiction-and-science.html",
 }
 ,{
-  "title": "A timeline that shows it all beginning to ending",
-  "author": "Group 4",
+  "title": "Organized crime and politics in Central Asia",
+  "author": "Group 8",
+  "layout": "narrative",
+  "link": "/texts/organized-crime-and-politics-in-central-asia.html",
+}
+,{
+  "title": "Soviet and Russian foreign policy",
+  "author": "Group 6",
+  "layout": "narrative",
+  "link": "/texts/soviet-and-russian-foreign-policy.html",
+}
+,{
+  "title": "Underground music in Soviet Union, Eastern Europe, and Russia",
+  "author": "Group 8",
+  "layout": "narrative",
+  "link": "/texts/underground-music-in-soviet-union-eastern-europe-and-russia.html",
+}
+,{
+  "title": "This one has a timeline ",
+  "author": "Andy",
   "layout": "timeline",
-  "link": "/texts/a-timeline-that-shows-it-all-beginning-to-ending.html",
+  "link": "/texts/this-one-has-a-timeline.html",
 }
 ]
 
