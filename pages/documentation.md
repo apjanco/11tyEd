@@ -26,7 +26,7 @@ To make changes to a page on this site, you first need to login to the admin pag
 When you click on a text you'll get a form that lets you edit the metadata (such as title or author) and the content of the page.  
 
 ##### Metadata
-Most of the metadata fields are option and don't have to be completed.  However, your page must have a title and author. 
+Most of the metadata fields are optional and don't have to be completed.  However, your page must have a title and author. 
 - layout ~ Ed has layouts for various genres of text. In most cases you'll want `narrative`. ([more](https://minicomp.github.io/ed/documentation/#genres)).  You can embed a timeline or storymap into any layout.  If you want to fetch data directly from a Google Sheet and render a timeline in your page, you can use the `timeline` layout.  Be sure to add the Google Sheet id in the Timeline ID field.
 - Timeline id  ~ used by the timeline layout.  It expects the sheet id.  For example if your browser shows `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`, the id is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`
 - Text content ~ This interface allows you to write or paste text into the page.  With "richtext" selected, you can add plain text or HTML. With "markdown" you can write using a short-hand for HTML called "markdown." For more on markdown see [here](https://www.markdownguide.org/cheat-sheet/).  
