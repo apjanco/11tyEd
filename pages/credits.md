@@ -11,10 +11,5 @@ Susan Grunewald received her Ph.D. in History from Carnegie Mellon University in
 
 ### [José Vergara](https://josevergara.net/)
 
-I am currently a Visiting Assistant Professor in the Russian Section of Swarthmore College's Department of Modern Languages and Literatures. In the fall of 2021, I will be joining Bryn Mawr College’s Department of Russian as an Assistant Professor.
-
-My first book, All Future Plunges to the Past: James Joyce in Russian Literature, is forthcoming in October 2021 through Cornell University Press ( NIU Series in Slavic, East European, and Eurasian Studies).
-
-To learn more about my research, teaching, and outreach experience, please follow the links above or see my CV [here](https://josevergara.net/s/CV-Jose-Vergara-May-2021.pdf).
-
+José Vergara is a scholar and teacher of Russian language and literature of the long twentieth century. His book, [All Future Plunges to the Past: James Joyce in Russian Literature](https://www.cornellpress.cornell.edu/book/9781501759901/all-future-plunges-to-the-past/) (Cornell University Press, 2021), explores how Russian writers from the mid-1920s to the present day have read and creatively responded to Joyce’s fiction. José’s current research project, inspired by recent teaching experiences, addresses the latest in Russian prison texts. His teaching interests cover a wide variety of topics: Russian language, prison literature, Chernobyl, Russian Novel (of the classical and experimental varieties), and contemporary Russian culture and society. In the classroom, he frequently makes use of digital projects to allow students to explore these subjects from new angles and to share their research with a wider audience.
 
