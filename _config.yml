@@ -1,7 +1,7 @@
-# Built with Jekyll 3.6.0
+# Built with 11ty
 
 # Setup
-title:               Ed.
+title:               REEES Think Tank
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
@@ -14,7 +14,7 @@ author:
   email:             colibri.alex@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: red
 
 # Permalinks
 permalink: pretty
