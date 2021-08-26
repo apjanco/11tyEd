@@ -6,6 +6,7 @@
   
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="/texts/delayed-till-she-had-ceased-to-know.html" />
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   <!-- Basic meta elements -->
   <meta charset="utf-8" />
@@ -239,7 +240,17 @@
         }, false);
       })(document);
     </script>
-
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 <!-- Facebook SDK for JavaScript -->
 <!-- <script>
   window.fbAsyncInit = function() {

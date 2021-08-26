@@ -40,25 +40,39 @@ index.addDoc({
   id: 3
 });
 index.addDoc({
-  title: "Narrative of the Life of Frederick Douglass",
-  author: "Frederick Douglass",
-  layout: "narrative",
+  title: "O Captain! My Captain!",
+  author: "Walt Whitman",
+  layout: "poem",
   content: undefined,
   id: 4
 });
 index.addDoc({
-  title: "O Captain! My Captain!",
-  author: "Walt Whitman",
+  title: "The Fish in the Freckle",
+  author: "A Door Mouse",
   layout: "poem",
   content: undefined,
   id: 5
 });
 index.addDoc({
-  title: "A Raisin in the Sun",
-  author: "Lorraine Hansberry",
-  layout: "drama",
+  title: "Narrative of the Life of Frederick Douglass",
+  author: "Frederick Douglass",
+  layout: "narrative",
   content: undefined,
   id: 6
+});
+index.addDoc({
+  title: "New Text",
+  author: "Foo Bar",
+  layout: "narrative",
+  content: undefined,
+  id: 7
+});
+index.addDoc({
+  title: "A Raisin in the Sun",
+  author: "Lorraine Hansberry",
+  layout: "narrative",
+  content: undefined,
+  id: 8
 });
 console.log( jQuery.type(index) );
 
@@ -88,21 +102,33 @@ var store = [{
   "link": "/texts/my-poem.html",
 }
 ,{
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
-  "layout": "narrative",
-  "link": "/texts/narrative-of-the-life-of-frederick-douglass.html",
-}
-,{
   "title": "O Captain! My Captain!",
   "author": "Walt Whitman",
   "layout": "poem",
   "link": "/texts/o-captain!-my-captain!.html",
 }
 ,{
+  "title": "The Fish in the Freckle",
+  "author": "A Door Mouse",
+  "layout": "poem",
+  "link": "/texts/the-fish-in-the-freckle.html",
+}
+,{
+  "title": "Narrative of the Life of Frederick Douglass",
+  "author": "Frederick Douglass",
+  "layout": "narrative",
+  "link": "/texts/narrative-of-the-life-of-frederick-douglass.html",
+}
+,{
+  "title": "New Text",
+  "author": "Foo Bar",
+  "layout": "narrative",
+  "link": "/texts/new-text.html",
+}
+,{
   "title": "A Raisin in the Sun",
   "author": "Lorraine Hansberry",
-  "layout": "drama",
+  "layout": "narrative",
   "link": "/texts/a-raisin-in-the-sun.html",
 }
 ]
