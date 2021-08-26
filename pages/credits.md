@@ -3,19 +3,18 @@ layout: page
 title: Credits
 ---
 
-### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
+### [Susan Grunewald](https://www.worldhistory.pitt.edu/people/susan-grunewald) 
 
-Susanna teaches Digital Humanities in the Department of Latin American and Iberian Cultures. She earned her Ph.D in Romance Studies at the University of Barcelona in 2012, and completed a M.A. in «Nouvelles technologies appliquées à l’histoire» at the École Nationale des Chartes (Paris). She has taught at the University of Barcelona and she has been a postdoctoral fellow at the Spanish National Research Council (CSIC). Her research explores several aspects of digital humanities, especially, scholarly digital editions, electronic text analysis, intertextuality and text reuse, and digital lexicography. She also works with the intersection of the Iberian Peninsula and Italy in the Middle Ages and the Renaissance, reconstructing cultural and literary networks between the two.
-
-
+Susan Grunewald received her Ph.D. in History from Carnegie Mellon University in 2019. She specializes in Soviet and German history, especially related to the Second World War and the early Cold War. Her research focuses on German prisoners of war (POWs) in the Soviet Union from 1941-1956. Her research includes a GIS mapping project of the over 4,000 German POW camps that operated across the entire Soviet Union. Her digital research blends spatial and environmental history with archival findings from Russia, Germany, and the United States.
 
 ---
 
-## Acknowledgments
+### [José Vergara](https://josevergara.net/)
 
-As many open source projects, Ed is the work of community. The project starts with the open web, and everything in between leading to [Jekyll](https://jekyllrb.com/) and the wonderful team who wrangled that Ruby in our favor. The theme stylesheets are built on top of [Lanyon](https://github.com/poole/lanyon), a Jekyll theme based on [Poole](http://getpoole.com), "the Jekyll butler," both created by [Mark Otto](https://github.com/mdo) and distributed with an MIT license. Thanks, Mark, for your helpful streamlining! Special hat tips to brother-in-markdown-arms, [Chris Forster](https://github.com/c-forster), and the generous [Sylvester Keil](https://github.com/inukshuk/) for his work on Jekyll Scholar.
+I am currently a Visiting Assistant Professor in the Russian Section of Swarthmore College's Department of Modern Languages and Literatures. In the fall of 2021, I will be joining Bryn Mawr College’s Department of Russian as an Assistant Professor.
+
+My first book, All Future Plunges to the Past: James Joyce in Russian Literature, is forthcoming in October 2021 through Cornell University Press ( NIU Series in Slavic, East European, and Eurasian Studies).
+
+To learn more about my research, teaching, and outreach experience, please follow the links above or see my CV [here](https://josevergara.net/s/CV-Jose-Vergara-May-2021.pdf).
 
 
-We are strongly indebted to the research work and conversations stemming out of our [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)—or as we like to call it: #xpmethod; the wonderful international comradery of [GO::DH](http://www.globaloutlookdh.org/); and of course, the support of our [Columbia University Libraries](http://library.columbia.edu/) and its cozy [Studio@Butler](https://studio.cul.columbia.edu/).
-
-...and to the writers that inspire us to scribble notes on the margins we protect with our work. Thank you.
