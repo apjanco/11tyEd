@@ -28,9 +28,14 @@ To make changes to a page on this site, you first need to login to the admin pag
 
 ## Timeline JS
 
+http://timeline.knightlab.com/#make
+
+
 ---
 
 ## Soundcite 
+
+https://soundcite.knightlab.com/?#make-clip-options
 
 ---
 
