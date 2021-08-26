@@ -38,6 +38,8 @@ Most of the metadata fields are optional and don't have to be completed.  Howeve
 For the most part, follow the instructions here:
 http://timeline.knightlab.com/#make
 
+“TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines. Beginners can create a timeline using nothing more than a Google spreadsheet [...]. Experts can use their JSON skills to create custom installations, while keeping TimelineJS's core functionality.”
+
 You can embed a timeline in your page using the embed code.  You can also select the timeline template and add the Google Sheet id in the admin page under "Timeline ID".  For example, if your Google Sheets URL is `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`  the ID is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`.
 
 
