@@ -81,8 +81,8 @@ The first step, of course, is to identify the songs or other recordings that you
 Once you’re ready, let’s record! You’ll want to use Quicktime or Audacity to record your computer’s audio. For the sake of a website, this should be perfectly adequate quality. 
 
 If you’re using a Mac with a fairly recent version of MacOS, I’d recommend using a small piece of software called Soundflower. This allows you to select your computer audio (as opposed to your computer microphone) as your audio input.
-- Download the software here: 
-- Instructions on how to install it can be found here: 
+- Download the software here: https://github.com/mattingalls/Soundflower/releases/tag/2.0b2
+- Instructions on how to install it can be found here: https://www.fluxforge.com/blog/soundflower-os-x-10.11-10.12-macOS-sierra/
 
 It may not appear as though anything was installed. However, if you click on the volume control in your status bar, you should see Soundflower as an option.
 
