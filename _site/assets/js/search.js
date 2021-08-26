@@ -12,124 +12,72 @@ var index = elasticlunr(function () {
 // Add to this index the proper metadata from the Jekyll content
 
 index.addDoc({
-  title: "A Julia de Burgos",
-  author: "Julia de Burgos",
-  layout: "poem",
+  title: "Black radicalism and the Soviet Union",
+  author: "Group 3 ",
+  layout: "narrative",
   content: undefined,
   id: 0
 });
 index.addDoc({
-  title: "Delayed till she had ceased to know",
-  author: "Emily Dickinson",
-  layout: "poem",
+  title: "Indigenous populations & language revitalization",
+  author: "Group 1",
+  layout: "narrative",
   content: undefined,
   id: 1
 });
 index.addDoc({
-  title: "Dreams",
-  author: "Langston Hughes",
-  layout: "poem",
+  title: " public health + inequality in Russia",
+  author: "Group 5",
+  layout: "narrative",
   content: undefined,
   id: 2
 });
 index.addDoc({
-  title: "My poem",
-  author: "Alex Gil",
-  layout: "poem",
+  title: "Queer rights and activism in Slovenia, Croatia, and Poland from 1945 to the present",
+  author: "Group 2",
+  layout: "narrative",
   content: undefined,
   id: 3
 });
 index.addDoc({
-  title: "O Captain! My Captain!",
-  author: "Walt Whitman",
-  layout: "poem",
+  title: "Representations of race and the other in Soviet science fiction and science",
+  author: "Group 4",
+  layout: "narrative",
   content: undefined,
   id: 4
-});
-index.addDoc({
-  title: "The Fish in the Freckle",
-  author: "A Door Mouse",
-  layout: "poem",
-  content: undefined,
-  id: 5
-});
-index.addDoc({
-  title: "Narrative of the Life of Frederick Douglass",
-  author: "Frederick Douglass",
-  layout: "narrative",
-  content: undefined,
-  id: 6
-});
-index.addDoc({
-  title: "New Text",
-  author: "Foo Bar",
-  layout: "narrative",
-  content: undefined,
-  id: 7
-});
-index.addDoc({
-  title: "A Raisin in the Sun",
-  author: "Lorraine Hansberry",
-  layout: "narrative",
-  content: undefined,
-  id: 8
 });
 console.log( jQuery.type(index) );
 
 // Builds reference data (maybe not necessary for us, to check)
 var store = [{
-  "title": "A Julia de Burgos",
-  "author": "Julia de Burgos",
-  "layout": "poem",
-  "link": "/texts/a-julia-de-burgos.html",
-}
-,{
-  "title": "Delayed till she had ceased to know",
-  "author": "Emily Dickinson",
-  "layout": "poem",
-  "link": "/texts/delayed-till-she-had-ceased-to-know.html",
-}
-,{
-  "title": "Dreams",
-  "author": "Langston Hughes",
-  "layout": "poem",
-  "link": "/texts/dreams.html",
-}
-,{
-  "title": "My poem",
-  "author": "Alex Gil",
-  "layout": "poem",
-  "link": "/texts/my-poem.html",
-}
-,{
-  "title": "O Captain! My Captain!",
-  "author": "Walt Whitman",
-  "layout": "poem",
-  "link": "/texts/o-captain!-my-captain!.html",
-}
-,{
-  "title": "The Fish in the Freckle",
-  "author": "A Door Mouse",
-  "layout": "poem",
-  "link": "/texts/the-fish-in-the-freckle.html",
-}
-,{
-  "title": "Narrative of the Life of Frederick Douglass",
-  "author": "Frederick Douglass",
+  "title": "Black radicalism and the Soviet Union",
+  "author": "Group 3 ",
   "layout": "narrative",
-  "link": "/texts/narrative-of-the-life-of-frederick-douglass.html",
+  "link": "/texts/black-radicalism-and-the-soviet-union.html",
 }
 ,{
-  "title": "New Text",
-  "author": "Foo Bar",
+  "title": "Indigenous populations & language revitalization",
+  "author": "Group 1",
   "layout": "narrative",
-  "link": "/texts/new-text.html",
+  "link": "/texts/indigenous-populations-and-language-revitalization.html",
 }
 ,{
-  "title": "A Raisin in the Sun",
-  "author": "Lorraine Hansberry",
+  "title": " public health + inequality in Russia",
+  "author": "Group 5",
   "layout": "narrative",
-  "link": "/texts/a-raisin-in-the-sun.html",
+  "link": "/texts/public-health-+-inequality-in-russia.html",
+}
+,{
+  "title": "Queer rights and activism in Slovenia, Croatia, and Poland from 1945 to the present",
+  "author": "Group 2",
+  "layout": "narrative",
+  "link": "/texts/queer-rights-and-activism-in-slovenia-croatia-and-poland-from-1945-to-the-present.html",
+}
+,{
+  "title": "Representations of race and the other in Soviet science fiction and science",
+  "author": "Group 4",
+  "layout": "narrative",
+  "link": "/texts/representations-of-race-and-the-other-in-soviet-science-fiction-and-science.html",
 }
 ]
 
