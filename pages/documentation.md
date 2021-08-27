@@ -126,15 +126,15 @@ Instructions for making a download link with dropbox: https://help.dropbox.com/f
 
 #### Google Drive 
 
-Here's a post on direct download from Drive.  It's a little funky, but it works.  
+Here's a way to direct download from Drive.  
 1. Upload your sound file to Drive.
 2. Share your file, make sure it's available to anyone with the link, and get the file id from the link.  For example `Get link` will show `https://drive.google.com/file/d/1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ/view?usp=sharing`.  
 
-- The id is `1TRUFvBz-fHHaGSGm-jF3J9W-aLEypRy1nfv58XBeZPE`
+- The id is `1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
 
 3. Combine this `https://drive.google.com/uc?export=download&id=` with your file's ID
 4. So the public web address of the file is then: 
-`https://drive.google.com/uc?export=download&id=1TRUFvBz-fHHaGSGm-jF3J9W-aLEypRy1nfv58XBeZPE`
+`https://drive.google.com/uc?export=download&id=1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
 
 
 
