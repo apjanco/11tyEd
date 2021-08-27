@@ -40,37 +40,37 @@ index.addDoc({
   id: 3
 });
 index.addDoc({
-  title: "Representations of race and the other in Soviet science fiction and science",
-  author: "Group 4",
-  layout: "narrative",
-  content: undefined,
-  id: 4
-});
-index.addDoc({
   title: "Organized crime and politics in Central Asia",
   author: "Group 8",
   layout: "narrative",
   content: undefined,
-  id: 5
+  id: 4
 });
 index.addDoc({
   title: "Soviet and Russian foreign policy",
   author: "Group 6",
   layout: "narrative",
   content: undefined,
-  id: 6
+  id: 5
 });
 index.addDoc({
   title: "Underground music in Soviet Union, Eastern Europe, and Russia",
   author: "Group 8",
   layout: "narrative",
   content: undefined,
-  id: 7
+  id: 6
 });
 index.addDoc({
   title: "This one has a timeline ",
   author: "Andy",
   layout: "timeline",
+  content: undefined,
+  id: 7
+});
+index.addDoc({
+  title: "Representations of race and the other in Soviet science fiction and science",
+  author: "Group 4",
+  layout: "narrative",
   content: undefined,
   id: 8
 });
@@ -102,12 +102,6 @@ var store = [{
   "link": "/texts/queer-rights-and-activism-in-slovenia-croatia-and-poland-from-1945-to-the-present.html",
 }
 ,{
-  "title": "Representations of race and the other in Soviet science fiction and science",
-  "author": "Group 4",
-  "layout": "narrative",
-  "link": "/texts/representations-of-race-and-the-other-in-soviet-science-fiction-and-science.html",
-}
-,{
   "title": "Organized crime and politics in Central Asia",
   "author": "Group 8",
   "layout": "narrative",
@@ -130,6 +124,12 @@ var store = [{
   "author": "Andy",
   "layout": "timeline",
   "link": "/texts/this-one-has-a-timeline.html",
+}
+,{
+  "title": "Representations of race and the other in Soviet science fiction and science",
+  "author": "Group 4",
+  "layout": "narrative",
+  "link": "/texts/representations-of-race-and-the-other-in-soviet-science-fiction-and-science.html",
 }
 ]
 

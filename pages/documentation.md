@@ -104,6 +104,30 @@ You can then use those embed codes to feature your clips on your page here (or e
 
 Soundcite works with sound files on the web.  It needs an address for a publicly available file that your browser can request.  There are many ways of serving files to the web.  The best way to see if your file's address will work is just to put it in your browser.  If it download's a file, that's all you need.  The exact same thing happens when Soundcite fetches and plays the file as part of your website. 
 
+#### Google Drive 
+
+Here's a way to direct download from Drive.  
+1. Upload your sound file to Drive.
+2. Share your file, make sure it's available to anyone with the link, and get the file id from the link.  For example `Get link` will show `https://drive.google.com/file/d/1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ/view?usp=sharing`.  
+
+- The id is `1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
+
+3. Combine this `https://drive.google.com/uc?export=download&id=` with your file's ID
+4. So the public web address of the file is then: 
+`https://drive.google.com/uc?export=download&id=1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
+5. If you get stuck, here's a tool that will re-format the URL for you: https://www.gdirect.link/
+
+> Note that Google Drive links wont work with the Soundcite Create Clips tool. Fortunately, if you take a moment to look what it creates, you'll be able to write your own HTML to add sound citations to your text.   
+Here's an example of what we need:
+```html
+<span class="soundcite" data-url="https://github.com/New-Languages-for-NLP/files/raw/main/file_example_MP3_1MG.mp3" data-start="0" data-end="27000" data-plays="1">listen</span>
+```
+All HTML elements have an opening and a closing tag: `<span>` and `</span>`.  A span highlights a section of text that should be treated specially.  In this case, we're making it possible to play audio with the text.  The next thing is `class="soundcite"` that tells the browser how to style the element. `data-url` points to the address on the web for the audio file.  `data-start` sets where to start audio playback. Soundcite thinks in ten thousandths of a second, so rather than `10`, we have `10000`.    To start 10 seconds into the clip, we'd just add `data-start="10000"`.  `data-end` says where to stop.  To stop 27 seconds into the audio clip we say `data-end="27000"`.  `data-plays` tells the browser to  play the clip once (`="1"`) rather than in a loop (`="0"`).  Finally, between the two span tags we have our text: `<span>listen</span>`. If you put all this together you get the same output you'd get with the Soundcite tool to add into your site.  You can even work from this template and just change the location of the sound file, the start and finish times, and you're done: 
+```html
+<span class="soundcite" data-url="LINK to your FILE" data-start="0" data-end="1000" data-plays="1">YOUR TEXT</span>
+```
+
+
 #### GitHub
 
 GitHub is a cloud service owned by Microsoft that is an essential tool for web developers and programmers.  It's wonderful for sharing code and tracking changes in documents.  We're going to use it to publish files to the web.  
@@ -124,21 +148,7 @@ You can create a direct download link in Box that should work with Soundcite.  S
 
 Instructions for making a download link with dropbox: https://help.dropbox.com/files-folders/share/force-download
 
-#### Google Drive 
-
-Here's a way to direct download from Drive.  
-1. Upload your sound file to Drive.
-2. Share your file, make sure it's available to anyone with the link, and get the file id from the link.  For example `Get link` will show `https://drive.google.com/file/d/1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ/view?usp=sharing`.  
-
-- The id is `1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
-
-3. Combine this `https://drive.google.com/uc?export=download&id=` with your file's ID
-4. So the public web address of the file is then: 
-`https://drive.google.com/uc?export=download&id=1tCXtMPg_xME8VlwKDBeEoN7g5rYIeiLZ`
-
-
-
-
+ 
 
 ---
 ## Minimal Computing and Ed 
