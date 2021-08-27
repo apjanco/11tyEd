@@ -31,6 +31,7 @@
 
   Update the foundational and global aspects of the page.
 */
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Hina+Mincho&display=swap");
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -45,7 +46,7 @@ body {
 }
 
 html {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Alegreya", serif;
   font-size: 1em;
   /* 16px; specify in ems to support text resizing in all browsers */
   line-height: 1.5;
@@ -110,7 +111,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+  font-family: "Hina Mincho", serif;
   margin-bottom: 0.5rem;
   font-weight: normal;
   color: #404040;
@@ -230,7 +231,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title {
   color: #505050;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Alegreya", serif;
   font-size: 1.8rem;
   line-height: 0.777em;
   margin-top: 2em;
@@ -244,7 +245,7 @@ tbody tr:nth-child(odd) th {
   color: #454545;
   display: none;
   /* This is an accessibility no-no */
-  font-family: sans-serif;
+  font-family: "Hina Mincho", serif;
   font-size: 0.88rem;
   font-weight: normal;
   letter-spacing: 0.05rem;
