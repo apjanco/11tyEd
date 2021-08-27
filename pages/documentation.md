@@ -120,7 +120,14 @@ Here's a way to direct download from Drive.
 > Note that Google Drive links wont work with the Soundcite Create Clips tool. Fortunately, if you take a moment to look what it creates, you'll be able to write your own HTML to add sound citations to your text.   
 Here's an example of what we need:
 ```html
-<span class="soundcite" data-url="https://github.com/New-Languages-for-NLP/files/raw/main/file_example_MP3_1MG.mp3" data-start="0" data-end="27000" data-plays="1">listen</span>
+<span
+  class="soundcite"
+  data-url="https://github.com/New-Languages-for-NLP/files/raw/main/file_example_MP3_1MG.mp3"
+  data-start="0"
+  data-end="27000"
+  data-plays="1">
+  listen
+</span>
 ```
 All HTML elements have an opening and a closing tag: `<span>` and `</span>`.  A span highlights a section of text that should be treated specially.  In this case, we're making it possible to play audio with the text.  The next thing is `class="soundcite"` that tells the browser how to style the element. `data-url` points to the address on the web for the audio file.  `data-start` sets where to start audio playback. Soundcite thinks in ten thousandths of a second, so rather than `10`, we have `10000`.    To start 10 seconds into the clip, we'd just add `data-start="10000"`.  `data-end` says where to stop.  To stop 27 seconds into the audio clip we say `data-end="27000"`.  `data-plays` tells the browser to  play the clip once (`="1"`) rather than in a loop (`="0"`).  Finally, between the two span tags we have our text: `<span>listen</span>`. If you put all this together you get the same output you'd get with the Soundcite tool to add into your site.  You can even work from this template and just change the location of the sound file, the start and finish times, and you're done: 
 ```html
