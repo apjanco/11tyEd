@@ -13,6 +13,7 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="#" data-proofer-ignore>Return to Top</a>
+    
     {% for node in toc %}
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} sidebar-nav-item-toc" href="#{{ node | slug }}">{{ node }}</a>
     {% endfor %}
