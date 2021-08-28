@@ -66,9 +66,9 @@ http://timeline.knightlab.com/#make
 - The Groups column allows you to show how certain events are related to one another.
 - The Background column will, unsurprisingly, change what the background on that slide looks like. You can use colors (copy/paste the [CSS color code](https://www.w3schools.com/cssref/css_colors.asp)) or images (using an image address, as above in the media section).
 9. Your timeline is now ready to be published.
-- Select File --> Share --> Publish to the web
-- Change "Entire document" to od1. Hit Publish. Close the pop-up window.
-- You can now embed a timeline in your page using the embed code. You can also select the timeline template and add the Google Sheet id in the admin page under "Timeline ID". For example, if your Google Sheets URL is `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`  the ID is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`.
+- On Google Sheets, select File --> Share --> Publish to the web
+- Change "Entire document" to "od1." Hit Publish. Close the pop-up window.
+- You can now embed a timeline in your page using the embed code. You can also select the timeline template when creating/changing a page on Netifly and add the Google Sheet id in the admin page under "Timeline ID". For example, if your Google Sheets URL is `https://docs.google.com/spreadsheets/d/1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98/edit#gid=0`  the ID is `1-2p86KZCaiSb-76b4nlIT7b_mBZpxa9v71dSU6eNl98`. Be sure you don't select the forward slashes (/). 
 - Refer to this section of the [how-to guide](https://reees.netlify.app/how-to-guide.html#making-changes-to-this-site) to add your timeline to your group's page.
 - Select "Publish" up on the top-right of the page. 
 
